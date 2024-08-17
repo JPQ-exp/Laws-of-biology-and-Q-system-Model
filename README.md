@@ -36,5 +36,5 @@ In the program the super holon takes the decision based on a system of memory, (
 
 I added an attempt of validation of the model, I hope you like it. You can input the iterations and initial energy. Its more of a simulation and even after 300 oterations it mantains stability. its incredible if you think about it and I think I'm on the right path.
 
-I added a modification to the holon model that includes a sigmoid function on the refulation, It works really well and is more realiistic and organic. Its the file Holon sigmoid
+I added a modification to the holon model that includes a sigmoid function on the regulation, It works really well and is more realiistic and organic. Its the file Holon sigmoid
 2.
