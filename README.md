@@ -38,3 +38,5 @@ I added an attempt of validation of the model, I hope you like it. You can input
 
 I added a modification to the holon model that includes a sigmoid function on the regulation, It works really well and is more realiistic and organic. Its the file Holon sigmoid
 2.
+
+I added a modification to the holon model that includes temperature regulation and homeostasis, the first one holon homeostasis 6, includes all the changes and the holon semi homeostasis 1, only checks temperature homeostasis. Thats all for now.
