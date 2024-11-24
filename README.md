@@ -41,4 +41,4 @@ I added a modification to the holon model that includes a sigmoid function on th
 
 I added a modification to the holon model that includes temperature regulation and homeostasis, the first one holon homeostasis 6, includes all the changes and the holon semi homeostasis 1, only checks temperature homeostasis. Thats all for now.
 
-I added one model based on mathematical principles of the laws of biology, its name is modelo biologico-holonetico, or bioholonetic model, and has reached the overall goal of reaching the 100 iteration a couple of times. It needs refinement.
+I added one model based on mathematical principles of the laws of biology, its name is modelo biologico-holonetico, or bioholonetic model, and has reached the overall goal of reaching the 100 iteration a couple of times. It needs refinement. The number 28 is an updated version, more in line of what I needed to simulate.
